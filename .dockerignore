@@ -1,0 +1,8 @@
+.env
+.flake8
+.gitingore
+docker-compose.yaml
+Dockerfile
+README.md
+**__pycache__**
+**.vscode**
